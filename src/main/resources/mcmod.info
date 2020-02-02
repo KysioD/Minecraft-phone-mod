@@ -1,0 +1,16 @@
+[
+{
+  "modid": "phonemod",
+  "name": "Phone Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kysio"],
+  "credits": "All right reserved",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
